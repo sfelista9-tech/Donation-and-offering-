@@ -1,3 +1,6 @@
+FELISTA SAULO SANGA
+BsC ITS
+14322022/T.24
 # Smart Donation System
 
 A comprehensive web-based system for managing donations, offerings, and members in a church or organization.
@@ -205,3 +208,4 @@ This project is free to use and modify for personal or organizational purposes.
 **Version:** 1.0
 **Last Updated:** 2026
 **Developed for:** Smart Donation System Project
+@kadefue
